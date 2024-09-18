@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+  <ruc></ruc>
+  <razon_social></razon_social>
+  <productos>
+    <producto>
+      <nombre>Lejia</nombre>
+      <precio>$5.00</precio>
+      <seleccionado>false</seleccionado>
+    </producto>
+    <producto>
+      <nombre>Limpia vidrio</nombre>
+      <precio>$3.50</precio>
+      <seleccionado>false</seleccionado>
+    </producto>
+    <producto>
+      <nombre>Sera</nombre>
+      <precio>$4.00</precio>
+      <seleccionado>false</seleccionado>
+    </producto>
+    <producto>
+      <nombre>Poet</nombre>
+      <precio>$2.75</precio>
+      <seleccionado>false</seleccionado>
+    </producto>
+  </productos>
+</factura>  
